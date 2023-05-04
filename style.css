@@ -34,6 +34,7 @@ body {
   left: 0;
   width: 100% !important;
   height: 100% !important;
+  cursor: pointer;
   object-fit: cover;
   border-radius: 5px;
 }
