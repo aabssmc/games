@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^monkey-mart$ fun/monkeymart.html [NC,L]
