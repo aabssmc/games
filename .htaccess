@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^monkey-mart$ fun/monkeymart.html [NC,L]
+RewriteRule ^monkeymart$ fun/monkeymart.html [NC,L]
