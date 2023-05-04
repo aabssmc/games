@@ -4,6 +4,10 @@ body {
 	color: #fff;
 }
 
+.image-button:focus {
+	outline: none;
+}
+
 #search-bar {
 	padding: 10px;
 	width: 300px;
