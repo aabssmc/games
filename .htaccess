@@ -1,2 +1,5 @@
 RewriteEngine on
 RewriteRule ^monkeymart$ fun/monkeymart.html [NC,L]
+RewriteRule ^ctr$ fun/ctr.html [NC,L]
+RewriteRule ^ctr-tr$ fun/ctr-tr.html [NC,L]
+RewriteRule ^ctr-holiday$ fun/ctr-holiday.html [NC,L]
